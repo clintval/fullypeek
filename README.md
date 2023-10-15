@@ -6,6 +6,10 @@
 
 Peek forward in an iterator as far as you'd like, memory allowing!
 
+```console
+cargo add fullypeek
+```
+
 ![El Chorro, Spain](.github/img/cover.jpg)
 
 ```rust
