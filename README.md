@@ -6,7 +6,7 @@
 
 Peek forward in an iterator as far as you'd like, memory allowing!
 
-```rust
+```console
 cargo add fullypeek
 ```
 
