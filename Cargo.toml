@@ -10,6 +10,4 @@ description = "Peek forward in an iterator as far as you'd like, memory allowing
 documentation = "https://github.com/clintval/fullypeek/README.md"
 categories = ["rust-patterns"]
 keywords = ["iterator", "peek", "peekable"]
-
-[dev-dependencies]
-rstest = "0.18.2"
+exclude = [".github/workflows/*", ".gitignore"]
